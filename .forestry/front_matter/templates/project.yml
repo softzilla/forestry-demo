@@ -1,4 +1,5 @@
 ---
+label: Project
 hide_body: false
 is_partial: false
 fields:
@@ -26,3 +27,7 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _projects/epilepsy-monitoring.md
+- _projects/modern-engineering.md
+- _projects/electric-vehicle-design.md
